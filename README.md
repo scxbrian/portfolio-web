@@ -1,0 +1,1 @@
+Made some commits, the frontend is done this will be changing soon because I need to get this live on vercel
