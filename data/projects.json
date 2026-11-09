@@ -1,0 +1,16 @@
+[
+  {
+    "repo_name": "portfolio-api",
+    "repo_url": "https://github.com/scxbrian/portfolio-api",
+    "language": "Python",
+    "summary": "FastAPI service that receives signed GitHub webhooks and serves the project list shown on this site. In development.",
+    "updated_at": "2026-11-09T00:00:00Z"
+  },
+  {
+    "repo_name": "portfolio-web",
+    "repo_url": "https://github.com/scxbrian/portfolio-web",
+    "language": "HTML",
+    "summary": "The frontend of this portfolio: plain HTML, CSS and JavaScript, deployed on Vercel.",
+    "updated_at": "2026-11-09T00:00:00Z"
+  }
+]
